@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Arun
+          Nagato Uzhumaki
         </a>
       </header>
     </div>
